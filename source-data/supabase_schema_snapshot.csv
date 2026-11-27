@@ -1,0 +1,8 @@
+table_schema,table_name,columns
+knowledge,weather_clothing_map,"id integer, temp_min integer, temp_max integer, temp_range_label character varying, weather_keyword character varying, style_keyword ARRAY, clothing_items ARRAY, description character varying, created_at timestamp with time zone"
+public,fashion_images,"id bigint, created_at timestamp with time zone, image_url text, keyword text, temp_range character varying, clothing_items ARRAY, description text, platform text, content text, region text, zone text"
+public,region_adjust,"zone text, temp_offset numeric, reason text"
+public,region_map,"id integer, sido text, sigungu text, dong text, zone text, nx integer, ny integer"
+public,style_guide,"id integer, temp_range_label text, top text, bottom text, shoes text, outer_wear text, source text, note text"
+public,user_feedback,"id integer, temp_range_label text, item_name text, feedback_score integer, created_at timestamp with time zone"
+public,weather_clothing_map,"id integer, temp_min integer, temp_max integer, temp_range_label character varying, weather_keyword character varying, style_keyword ARRAY, clothing_items ARRAY, description character varying, created_at timestamp with time zone"

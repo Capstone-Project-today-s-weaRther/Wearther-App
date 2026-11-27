@@ -1,0 +1,65 @@
+{
+  "기모 맨투맨": {
+    "pexels_id": 20837279,
+    "image_url": "https://images.pexels.com/photos/20837279/pexels-photo-20837279.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "source_page": "https://www.pexels.com/photo/back-of-a-man-wearing-a-gray-sweatshirt-20837279/",
+    "photographer": "Elina Volkova",
+    "alt": "A person wearing a gray sweatshirt on a city street"
+  },
+  "니트 베스트": {
+    "pexels_id": 9178990,
+    "image_url": "https://images.pexels.com/photos/9178990/pexels-photo-9178990.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "source_page": "https://www.pexels.com/photo/photo-of-a-woman-wearing-knitted-sweater-vest-9178990/",
+    "photographer": "Darina Belonogova",
+    "alt": "A woman wearing a knitted sweater vest"
+  },
+  "도톰한 니트": {
+    "pexels_id": 5352643,
+    "image_url": "https://images.pexels.com/photos/5352643/pexels-photo-5352643.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "source_page": "https://www.pexels.com/photo/a-woman-in-knitted-sweater-walking-on-the-street-5352643/",
+    "photographer": "Nataliya Vaitkevich",
+    "alt": "A woman wearing a yellow knitted sweater on a city street"
+  },
+  "메리노 터틀넥": {
+    "pexels_id": 6608314,
+    "image_url": "https://images.pexels.com/photos/6608314/pexels-photo-6608314.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "source_page": "https://www.pexels.com/photo/a-woman-wearing-turtleneck-sweater-6608314/",
+    "photographer": "Anastasia Shuraeva",
+    "alt": "A woman wearing a white turtleneck sweater"
+  },
+  "셔츠+니트 베스트": {
+    "pexels_id": 7776749,
+    "image_url": "https://images.pexels.com/photos/7776749/pexels-photo-7776749.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "source_page": "https://www.pexels.com/photo/a-man-wearing-a-sweater-vest-over-a-white-dress-shirt-7776749/",
+    "photographer": "Mikhail Nilov",
+    "alt": "A man wearing a sweater vest over a white dress shirt"
+  },
+  "오버핏 니트": {
+    "pexels_id": 10530737,
+    "image_url": "https://images.pexels.com/photos/10530737/pexels-photo-10530737.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "source_page": "https://www.pexels.com/photo/a-woman-wearing-an-oversized-sweater-10530737/",
+    "photographer": "armağan",
+    "alt": "A woman wearing an oversized sweater"
+  },
+  "케이블 니트": {
+    "pexels_id": 30351912,
+    "image_url": "https://images.pexels.com/photos/30351912/pexels-photo-30351912.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "source_page": "https://www.pexels.com/photo/woman-posing-in-cozy-cable-knit-sweater-outdoors-30351912/",
+    "photographer": "Liya Yaustratava",
+    "alt": "A woman wearing a white cable knit sweater"
+  },
+  "히트텍": {
+    "pexels_id": 10518401,
+    "image_url": "https://images.pexels.com/photos/10518401/pexels-photo-10518401.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "source_page": "https://www.pexels.com/photo/a-beautiful-woman-in-black-long-sleeves-and-denim-jeans-posing-10518401/",
+    "photographer": "Anastasia Maksimova",
+    "alt": "A woman wearing a close-fitting black long-sleeve top with denim jeans"
+  },
+  "히트텍 터틀넥": {
+    "pexels_id": 5945255,
+    "image_url": "https://images.pexels.com/photos/5945255/pexels-photo-5945255.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "source_page": "https://www.pexels.com/photo/close-up-shot-of-a-woman-in-gray-turtleneck-sweater-5945255/",
+    "photographer": "Theo Decker",
+    "alt": "A woman wearing a gray turtleneck sweater"
+  }
+}
